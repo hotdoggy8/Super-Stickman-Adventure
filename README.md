@@ -1,2 +1,4 @@
-# Untitled Pygame Project
-This project didn't have a starting point yet. When development begins, things will be changed to contain stuffs about the project
+![Super Stickman Adventure](https://raw.githubusercontent.com/hotdoggy8/Untitled-Pygame-Project/refs/heads/main/Images/Logo.png)
+# Super Stickman Adventure
+This is my school project about python's Pygame.
+This game is a platformer game, similar to Super Mario Bros
