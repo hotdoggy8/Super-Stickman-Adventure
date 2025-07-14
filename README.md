@@ -2,4 +2,4 @@
 # Super Stickman Adventure
 This is my school project about python's Pygame.
 This game is a platformer game, similar to Super Mario Bros. To download the game folder and play, 
-[click me](https://github.com/hotdoggy8/Super-Stickman-Adventure/tree/main/Platformer)
+[click me]()
